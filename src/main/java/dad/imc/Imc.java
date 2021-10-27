@@ -1,4 +1,4 @@
-package com.imc.sample.imc;
+package dad.imc;
 
 import javafx.application.Application;
 import javafx.beans.binding.Bindings;
